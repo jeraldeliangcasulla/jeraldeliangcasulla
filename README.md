@@ -1,6 +1,22 @@
-![jeraldeliangcasulla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeraldeliangcasulla&theme=vue-dark&hide_border=true)
+### <p align="center">🌐 Visit My Websites</p>
 
-# Tech Stack
+<p align="center">
+  <a href="https://queccicode.xyz/">
+    <img src="graphics/site1.png" alt="QuecciCode Website" height="140">
+  </a>
+  <a href="https://jeraldcasulla.queccicode.xyz/">
+    <img src="graphics/site2.png" alt="Personal Website" height="140">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://queccicode.xyz/">
+    <img src="https://img.shields.io/badge/Visit-QuecciCode%20Website-blue?style=for-the-badge">
+  </a>
+  <a href="https://jeraldcasulla.queccicode.xyz/">
+    <img src="https://img.shields.io/badge/Visit-Personal%20Website-green?style=for-the-badge">
+  </a>
+</p>
 
 ### <p align="center">🚀 Frameworks & Libraries</p>
 
@@ -62,24 +78,4 @@
   <img src="graphics/npm.png" alt="NPM" height="24">
   <img src="graphics/git.png" alt="Git" height="24">
   <img src="graphics/bazel.png" alt="Bazel" height="24">
-</p>
-
-### <p align="center">🌐 Visit My Websites</p>
-
-<p align="center">
-  <a href="https://queccicode.xyz/">
-    <img src="graphics/site1.png" alt="QuecciCode Website" height="140">
-  </a>
-  <a href="https://jeraldcasulla.queccicode.xyz/">
-    <img src="graphics/site2.png" alt="Personal Website" height="140">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://queccicode.xyz/">
-    <img src="https://img.shields.io/badge/Visit-QuecciCode%20Website-blue?style=for-the-badge">
-  </a>
-  <a href="https://jeraldcasulla.queccicode.xyz/">
-    <img src="https://img.shields.io/badge/Visit-Personal%20Website-green?style=for-the-badge">
-  </a>
 </p>
