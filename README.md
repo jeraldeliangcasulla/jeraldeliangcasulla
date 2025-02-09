@@ -2,7 +2,6 @@
 
 A collection of frameworks, tools, libraries, and services I work with.
 
-## 🛠️ Frameworks
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <p align="center">
@@ -15,7 +14,6 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/cordova.png" alt="Cordova" height="50"> 
 </p>
 
-## ⚙️ Tools
 
 <p align="center">
   <img src="graphics/expo.png" alt="Expo" height="50">
@@ -29,7 +27,6 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/arduino.png" alt="Arduino" height="50">
 </p>
 
-## 📚 Libraries
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  height="50"/>
@@ -37,7 +34,6 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/mediapipe.png" alt="MediaPipe" height="50">
 </p>
 
-## 💻 Programming Languages
 
 <p align="center">
   <img src="graphics/typescript.png" alt="TypeScript" height="50">
@@ -49,7 +45,6 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/php.png" alt="PHP" height="50">
 </p>
 
-## ☁️ Services
 
 <p align="center">
   <img src="graphics/gcp.png" alt="Google Cloud" height="50">
@@ -57,7 +52,6 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/appwrite.png" alt="Appwrite" height="50">
 </p>
 
-## 🗄️ Databases
 
 <p align="center">
   <img src="graphics/mysql.png" alt="MySQL" height="50">
@@ -65,7 +59,6 @@ A collection of frameworks, tools, libraries, and services I work with.
           
 </p>
 
-## 🎨 UI/UX Design
 
 <p align="center">
   <img src="graphics/figma.png" alt="Figma" height="50">
@@ -74,15 +67,12 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/ps.png" alt="Photoshop" height="50">
 </p>
 
-## 🔧 Command Line Interfaces (CLI)
 
 <p align="center">
   <img src="graphics/npm.png" alt="NPM" height="50">
   <img src="graphics/git.png" alt="Git" height="50">
   <img src="graphics/bazel.png" alt="Bazel" height="50">
 </p>
-
-## 🚀 Runtimes
 
 <p align="center">
   <img src="graphics/php.png" alt="PHP" height="50">
