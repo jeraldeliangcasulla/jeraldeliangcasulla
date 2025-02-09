@@ -66,10 +66,10 @@
 
 <p align="center">
   <a href="https://queccicode.xyz/">
-    <img src="graphics/site1.png" alt="QuecciCode Website" height="100">
+    <img src="graphics/site1.png" alt="QuecciCode Website" height="140">
   </a>
   <a href="https://jeraldcasulla.queccicode.xyz/">
-    <img src="graphics/site2.png" alt="Personal Website" height="100">
+    <img src="graphics/site2.png" alt="Personal Website" height="140">
   </a>
 </p>
 
