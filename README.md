@@ -53,6 +53,6 @@ A collection of frameworks, tools, libraries, and services I work with.
 </p>
 
 <p align="center">
-  <img src="graphics/site1.png" alt="Node.js" height="24">
-  <img src="graphics/site2.png" alt="Node.js" height="24">
+  <img src="graphics/site2.png" alt="Second Website" height="40">
+  <img src="graphics/site1.png" alt="Personal Website" height="40">
 </p>
