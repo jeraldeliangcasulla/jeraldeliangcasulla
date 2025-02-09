@@ -54,5 +54,6 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/php.png" alt="PHP" height="24">
   <img src="graphics/node.png" alt="Node.js" height="24">
 </p>
+![image](https://github.com/user-attachments/assets/114c1156-da07-4f0e-b3ab-36db1fd12e1f =100x20 )
 
  
