@@ -65,19 +65,19 @@
 ### Visit My Websites
 
 <p align="center">
-  <a href="https://your-website-1.com">
-    <img src="graphics/site1.png" alt="Personal Website" height="100">
+  <a href="https://queccicode.xyz/">
+    <img src="graphics/site1.png" alt="QuecciCode Website" height="100">
   </a>
-  <a href="https://your-website-2.com">
-    <img src="graphics/site2.png" alt="Second Website" height="100">
+  <a href="https://jeraldcasulla.queccicode.xyz/">
+    <img src="graphics/site2.png" alt="Personal Website" height="100">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://your-website-1.com">
-    <img src="https://img.shields.io/badge/Visit-Personal%20Website-blue?style=for-the-badge">
+  <a href="https://queccicode.xyz/">
+    <img src="https://img.shields.io/badge/Visit-QuecciCode%20Website-blue?style=for-the-badge">
   </a>
-  <a href="https://your-website-2.com">
-    <img src="https://img.shields.io/badge/Visit-Second%20Website-green?style=for-the-badge">
+  <a href="https://jeraldcasulla.queccicode.xyz/">
+    <img src="https://img.shields.io/badge/Visit-Personal%20Website-green?style=for-the-badge">
   </a>
 </p>
