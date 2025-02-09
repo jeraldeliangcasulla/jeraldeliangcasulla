@@ -1,3 +1,5 @@
+![jeraldeliangcasulla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeraldeliangcasulla&theme=vue-dark&hide_border=true)
+
 # Tech Stack
 
 ### <p align="center">🚀 Frameworks & Libraries</p>
