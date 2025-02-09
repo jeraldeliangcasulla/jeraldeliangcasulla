@@ -8,6 +8,8 @@ A collection of frameworks, tools, libraries, and services I work with.
   <img src="graphics/react.png" alt="React" height="50">
   <img src="graphics/svelte.png" alt="Svelte" height="50">
   <img src="graphics/nextjs.png" alt="Nextjs" height="50"> 
+  <img src="graphics/reactnative.png" alt="React Native" height="50">
+  <img src="graphics/androidsdk.png" alt="Android SDK" height="50">
   <img src="graphics/laravel.png" alt="Laravel" height="50"> 
   <img src="graphics/cordova.png" alt="Cordova" height="50"> 
 </p>
