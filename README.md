@@ -1,4 +1,4 @@
-# 🚀 Tech Stack
+
 
 A collection of frameworks, tools, libraries, and services I work with.
 
