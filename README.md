@@ -60,7 +60,8 @@ A collection of frameworks, tools, libraries, and services I work with.
 
 <p align="center">
   <img src="graphics/mysql.png" alt="MySQL" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="Mongo DB" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50"/>
+          
 </p>
 
 ## 🎨 UI/UX Design
