@@ -32,7 +32,7 @@ A collection of frameworks, tools, libraries, and services I work with.
 ## 📚 Libraries
 
 <p align="center">
-  <img src="graphics/react2.png" alt="React Native" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  height="50"/>
   <img src="graphics/zustand.png" alt="Zustand" height="50">
   <img src="graphics/mediapipe.png" alt="MediaPipe" height="50">
 </p>
