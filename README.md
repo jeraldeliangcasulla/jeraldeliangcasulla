@@ -6,10 +6,10 @@ A collection of frameworks, tools, libraries, and services I work with.
 
 <p align="center">
   <img src="graphics/react.png" alt="React" height="50">
-  <img src="graphics/cordova.png" alt="Cordova" height="50">
-  <img src="graphics/jetpack.png" alt="Jetpack" height="50">
-  <img src="graphics/laravel.png" alt="Laravel" height="50">
-  <img src="graphics/net.png" alt=".NET" height="50">
+  <img src="graphics/svelte.png" alt="Svelte" height="50">
+  <img src="graphics/nextjs.png" alt="Nextjs" height="50"> 
+  <img src="graphics/laravel.png" alt="Laravel" height="50"> 
+  <img src="graphics/cordova.png" alt="Cordova" height="50"> 
 </p>
 
 ## ⚙️ Tools
