@@ -4,13 +4,13 @@
   <a href="https://queccicode.xyz/">
     <img src="graphics/site1.png" alt="QuecciCode Website" height="140">
   </a>
-  <a href="https://jeraldcasulla.queccicode.xyz/">
+  <a href="https://jerald.quecci.com/">
     <img src="graphics/site2.png" alt="Personal Website" height="140">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://queccicode.xyz/">
+  <a href="https://quecci.com/">
     <img src="https://img.shields.io/badge/Visit-QuecciCode%20Website-blue?style=for-the-badge">
   </a>
   <a href="https://jeraldcasulla.queccicode.xyz/">
