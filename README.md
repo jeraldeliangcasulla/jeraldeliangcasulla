@@ -1,7 +1,7 @@
 ### <p align="center">🌐 Visit My Websites</p>
 
 <p align="center">
-  <a href="https://queccicode.xyz/">
+  <a href="https://quecci.com/">
     <img src="graphics/site1.png" alt="QuecciCode Website" height="140">
   </a>
   <a href="https://jerald.quecci.com/">
